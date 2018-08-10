@@ -81,13 +81,13 @@ protected final void startInitialization()
 	{
 		return _initializationProgress;
 	}
-	@Override
+	
 	public TModel GetModel()
 	{
 		return _model;
 	}
 
-	@Override
+	
 	public void AddObserver(IViewModelObserver newObserver)
 	{
 		_observers.add(newObserver);
@@ -109,7 +109,7 @@ protected final void startInitialization()
 		}
 	}
 
-	@Override
+	
 	public void SetModel(TModel model)
 	{
 		_model = model;

@@ -5,7 +5,7 @@ using System.ComponentModel;
 
 namespace DE.Myparcelservice.App.ViewModels.Basics
 {
-    public abstract class AbstractViewModel<TModel> : IViewModel<TModel>, INotifyPropertyChanged
+    public abstract class AbstractViewModel<TModel> : INotifyPropertyChanged
     {
         private int _initializationProgress;
 

@@ -14,7 +14,7 @@ import de.myparcelservice.app.OSAPIInterfaces.IAsyncTaskCreator;
  * Grund dafür ist die in C# mit Events realisierte Anbindung an die UI
  * @param <TModel>
  */
-public abstract class AbstractViewModel<TModel> implements IViewModel<TModel>
+public abstract class AbstractViewModel<TModel>
 {
 
 	private int _initializationProgress;

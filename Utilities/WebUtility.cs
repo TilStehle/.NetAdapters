@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
 
-namespace ParcelservicePricing.ConvertedWindowsPhone.extensions
+namespace CSharpJavaAdaptation.utilities
 {
     public class WebUtility 
     {

@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 
-namespace ParcelservicePricing.ConvertedWindowsPhone.extensions
+namespace CSharpJavaAdaptation.adapters
 {
     class SimpleDateFormat
     {

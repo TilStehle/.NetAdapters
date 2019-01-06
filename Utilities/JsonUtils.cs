@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ParcelservicePricing.ConvertedWindowsPhone.extensions
+namespace CSharpJavaAdaptation.utilities
 {
     class JsonUtils
     {
